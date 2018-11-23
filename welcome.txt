@@ -1,3 +1,2 @@
 print ("Welcome");
-<<<<<<< HEAD
 print ("How do you do")
